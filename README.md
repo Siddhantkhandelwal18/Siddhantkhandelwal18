@@ -1,16 +1,22 @@
-## Hi there 👋
+# 🚀 Siddhant Khandelwal | AI & Data Science Enthusiast  
 
+Hi there! 👋 I'm **Siddhant Khandelwal**, a passionate **AI & Data Science Developer** with expertise in **Machine Learning, Natural Language Processing (NLP), and Data Engineering**. I love building intelligent systems that transform raw data into meaningful insights.  
 
-**Siddhantkhandelwal18/Siddhantkhandelwal18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 **What I Do:**  
+- 🏗 **AI-Powered Systems** – Developing and optimizing **Named Entity Recognition (NER)** models and AI-based query systems.  
+- 📊 **Data Science & Engineering** – Working with **MySQL, Python, and LLMs** to extract, analyze, and visualize data.  
+- ⚙️ **Automation & Optimization** – Creating scalable solutions for large datasets and improving processing efficiency.  
 
-Here are some ideas to get you started:
+💡 **Tech Stack & Tools:**  
+- 🐍 Python (Pandas, NumPy, Scikit-learn, LangChain)  
+- 🏛️ Databases: MySQL, PostgreSQL  
+- 🤖 AI/ML: LLaMA 3, Gemini API, NLP & NER Models  
+- 🛠 DevOps: Virtual Machines, Logging & Scheduling  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🌱 **Currently Exploring:**  
+- Enhancing **AI-Powered Data Query Interfaces**  
+- Optimizing **LLMs for enterprise applications**  
 
+📬 **Let's Connect:**  
+- 🔗 GitHub: [Siddhantkhandelwal18](https://github.com/Siddhantkhandelwal18)  
+- 📩 Email: [siddhantkhandelwal188@gmail.com]  
