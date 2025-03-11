@@ -1,22 +1,25 @@
-# 🚀 Siddhant Khandelwal | AI & Data Science Enthusiast  
+### 👋 Hi, I'm Siddhant Khandelwal!  
 
-Hi there! 👋 I'm **Siddhant Khandelwal**, a passionate **AI & Data Science Developer** with expertise in **Machine Learning, Natural Language Processing (NLP), and Data Engineering**. I love building intelligent systems that transform raw data into meaningful insights.  
+🚀 **AI & ML and Data Science Enthusiast | NLP & LLMs | Data Engineer**  
 
-🔍 **What I Do:**  
-- 🏗 **AI-Powered Systems** – Developing and optimizing **Named Entity Recognition (NER)** models and AI-based query systems.  
-- 📊 **Data Science & Engineering** – Working with **MySQL, Python, and LLMs** to extract, analyze, and visualize data.  
-- ⚙️ **Automation & Optimization** – Creating scalable solutions for large datasets and improving processing efficiency.  
+I specialize in **AI-powered data solutions**, working with **Machine Learning, Natural Language Processing (NLP), and Large Language Models (LLMs)** to extract insights from unstructured data. My passion lies in building intelligent systems that make data-driven decision-making effortless.  
 
-💡 **Tech Stack & Tools:**  
-- 🐍 Python (Pandas, NumPy, Scikit-learn, LangChain)  
-- 🏛️ Databases: MySQL, PostgreSQL  
-- 🤖 AI/ML: LLaMA 3, Gemini API, NLP & NER Models  
-- 🛠 DevOps: Virtual Machines, Logging & Scheduling  
+### 🔧 **What I Do:**  
+- 💡 **AI & NLP** – Developing **Named Entity Recognition (NER)** models, fine-tuning LLaMA 3, and working with **Generative AI**.  
+- 📊 **Data Engineering** – Processing large datasets, optimizing SQL queries, and integrating AI with databases.  
+- ⚙️ **Automation & Optimization** – Enhancing **data processing pipelines** and improving **LLM efficiency**.  
 
-🌱 **Currently Exploring:**  
-- Enhancing **AI-Powered Data Query Interfaces**  
-- Optimizing **LLMs for enterprise applications**  
+### 🛠 **Tech Stack:**  
+- **Languages:** Python (Pandas, NumPy, Scikit-learn, LangChain)  
+- **Databases:** MySQL, PostgreSQL  
+- **AI/ML Tools:** LLaMA 3, Gemini API, NLP, NER Models  
+- **DevOps:** Virtual Machines, Logging & Scheduling  
 
-📬 **Let's Connect:**  
-- 🔗 GitHub: [Siddhantkhandelwal18](https://github.com/Siddhantkhandelwal18)  
-- 📩 Email: [siddhantkhandelwal188@gmail.com]  
+### 🌱 **Currently Exploring:**  
+- AI-powered **data query interfaces**  
+- Optimizing **LLM-based enterprise applications**  
+
+💻 **Let’s Connect!**  
+📩 **Email:** [siddhantkhandelwal188@gmail.com]  
+🔗 **GitHub:** [Siddhantkhandelwal18](https://github.com/Siddhantkhandelwal18)  
+
