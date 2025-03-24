@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Siddhant Khandelwal!  
+### Hi, I'm Siddhant Khandelwal!  
 
 🚀 **AI & ML and Data Science Enthusiast | NLP & LLMs | Data Engineer**  
 
